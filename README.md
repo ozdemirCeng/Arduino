@@ -261,7 +261,7 @@ arduinocarsecurity/
 
 |             |                                                                        |
 | ----------- | ---------------------------------------------------------------------- |
-| 📧 E-posta  | [ozdmromer24@gmail.com](mailto:ozdmromer24@gmail.com)                  |
+| 📧 E-posta  | [dev.omer.ozdemir@gmail.com](mailto:dev.omer.ozdemir@gmail.com)        |
 | 📱 Telefon  | 0533 448 64 24                                                         |
 | 💼 LinkedIn | [linkedin.com/in/ozdmromer24](https://www.linkedin.com/in/ozdmromer24) |
 | 🐙 GitHub   | [github.com/ozdemirCeng](https://github.com/ozdemirCeng)               |
